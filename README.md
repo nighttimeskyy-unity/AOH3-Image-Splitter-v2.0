@@ -29,10 +29,8 @@
     <ul>
         ❌ Better Image Splitting algorithm v2.0 (Later)<br>
         ❌ Image Joiner (Later will be implemented) <br>
-        ❌ Bugs (Later will be fixed)<br>
-        ❌ Uses More Memory than expected (Later will be fixed)<br>
-        ❌ Task Management isn't fixed (Later will be fixed)<br>
-        ❌ Cannot give helpful guides for tiles amount (Later will be implemented)<br>
+        ❌ Bugs (Most have been fixed by now)<br>
+        ❌ Uses More Memory (Happens when Handling large images might get fixed)<br>
     </ul>
 </div>
 
