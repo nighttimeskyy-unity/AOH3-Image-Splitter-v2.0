@@ -30,12 +30,13 @@
         ❌ Better Image Splitting algorithm v2.0 (Later)<br>
         ❌ Image Joiner (Later will be implemented) <br>
         ❌ Bugs (Most have been fixed by now)<br>
-        ❌ Uses More Memory (Happens when Handling large images might get fixed)<br>
+        ❌ Uses More Memory (Happens when Handling large images, might get fixed)<br>
     </ul>
 </div>
 
 <div>  
     <h2 style="text-align: center;">📚How to use</h2>
     An HTML guide file will be Coming soon <br>
-    also a PDF guide will be Coming soon as well
+    also a PDF guide will be Coming soon as well <br>
+    Internal Guide will be in the software (Coming in next Release)
 </div>
