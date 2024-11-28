@@ -36,7 +36,5 @@
 
 <div>  
     <h2 style="text-align: center;">📚How to use</h2>
-    An HTML guide file will be Coming soon <br>
-    also a PDF guide will be Coming soon as well <br>
-    Internal Guide will be in the software (Coming in next Release)
+    A PDF guide will be coming soon
 </div>
