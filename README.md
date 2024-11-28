@@ -10,27 +10,17 @@
     <ul>
         Split images into multiple images for AOH3<br>
         Easy to use<br>
-        Better than v1<br>
-        In Windowed Format<br>
-        <s>Image Joiner</s> (not yet implemented)
+        Better than v1.0<br>
+        In Windowed Format
     </ul>
 </div>
 
 <div>
     <h2 style="text-align: center;">Currently Done</h2>
     <ul>
-        ✔️ Image Splitting algorithm v1.0 (Soon to be upgraded)<br>
+        ✔️ Image Splitting algorithm v2.0<br>
         ✔️ Basic Functions are done<br>
-    </ul>
-</div>
-
-<div>
-    <h2 style="text-align: center;">❗ Currently Not Done (Known issues) ❗</h2>
-    <ul>
-        ❌ Better Image Splitting algorithm v2.0 (Later)<br>
-        ❌ Image Joiner (Later will be implemented) <br>
-        ❌ Bugs (Most have been fixed by now)<br>
-        ❌ Uses More Memory (Happens when Handling large images, might get fixed)<br>
+        ✔️ Image Joiner
     </ul>
 </div>
 
