@@ -25,5 +25,5 @@
 
 <div>  
     <h2 style="text-align: center;">📚How to use</h2>
-    A PDF guide will be coming soon
+    A PDF guide Is available in source code or in each RAR programs files
 </div>
